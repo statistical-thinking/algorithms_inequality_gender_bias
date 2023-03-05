@@ -1,6 +1,6 @@
 # Digitale Ungleichheits- und Geschlechterverhältnisse
 
-Lehrmaterialien für die Lehrveranstatung "Digitale Ungleichheits- und Geschlechterverhältnisse"
+Lehrmaterialien für die Lehrveranstaltung "Digitale Ungleichheits- und Geschlechterverhältnisse"
 
 # Autoren
 Prof. Dr. Dennis Klinkhammer<br>
