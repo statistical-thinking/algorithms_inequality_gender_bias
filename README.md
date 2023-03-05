@@ -7,4 +7,4 @@ Prof. Dr. Dennis Klinkhammer<br>
 
 # Voraussetzungen
 Folgende Packages sollten in R installiert sein:<br>
-caret; corrplot;
+caret; corrplot; dplyr; ggplot2; gridExtra; stringr; tidytext
